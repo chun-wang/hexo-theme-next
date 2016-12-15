@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2015
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -265,7 +265,7 @@ mathjax:
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 2e733d8d8266ee607bdba040c30a1f2d
 
 # Duoshuo ShortName
 #duoshuo_shortname:
