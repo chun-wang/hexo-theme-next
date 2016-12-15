@@ -131,7 +131,7 @@ font:
 #social:
   #LinkLabel: Link
 social:
-  GitHub: https://github.com/springw
+  GitHub: https://github.com/chun-wang
   微博: http://weibo.com/your-user-name
   E-mail: wangchun410@gmail.com
   知乎: http://www.zhihu.com/people/your-user-name
@@ -196,8 +196,9 @@ sidebar:
 #links_layout: inline
 #links:
   #Title: http://example.com/
-
-
+links_title: Links
+links:
+  GitHub: https://github.com/chun-wang
 # ---------------------------------------------------------------
 # Post Settings
 # ---------------------------------------------------------------
